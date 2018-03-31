@@ -17,8 +17,8 @@
     "rollup-plugin-node-resolve": "^3.0.2",
     "rollup-plugin-paths": "^0.0.3",
     "rollup-plugin-uglify": "^3.0.0",
-    "rxjs": "^5.5.6",
-    "typescript": "^2.7.1"
+    "rxjs": "6.0.0-beta.1",
+    "typescript": "^2.7.2"
   },
   "scripts": {
     "build": "ngc",
